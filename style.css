@@ -1,0 +1,80 @@
+body{
+    background: url("https://projetomedicina.com.br/wp-content/uploads/2016/09/mat_dois.jpg");
+    position: absolute;
+}
+
+h1{
+    display: flex;
+    color: white;
+    text-align: center;
+    padding: 10%;
+    margin-left: 450px;    
+    text-shadow: 0.2em 0.5em 0.1em #D81EE8,
+      -0.3em 0.1em 0.1em #D81EE8,
+      0.4em -0.3em 0.1em #D81EE8;
+}
+
+
+
+/*.calculadora{
+    margin-top: 40%;
+    margin-left: 70%;
+    display:flex;
+    flex-direction: column;
+    width: 30%;
+    align-content: center;
+    border-radius: 5px;
+    
+
+}
+
+.calculadora input{
+    margin-bottom: 25px;
+    border-radius: 5px;
+    box-shadow: 0 0 0.2em #D81EE8, 0 0 0.2em #D81EE8;
+    text-align: center;
+}
+
+.calculadora input button{
+    margin-bottom: 5px;
+    width: 30%;
+    height: 40%;
+    padding: 5%;
+    border-radius: 10%;
+    margin-left: 36%;
+}
+
+*/
+footer{
+    align-items: baseline;
+    color: white;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 55%;
+    font-size: 30px;
+    text-shadow:  0 0 0.2em #D81EE8, 0 0 0.2em #D81EE8;
+}
+/*
+#operacoes {
+    display: flex;
+       
+}
+
+#botao1{
+    margin-left: 3%;
+}
+
+#botao2{
+    margin-left: 20%;
+}
+
+#botao3{
+    margin-left: 20%;
+
+}
+
+#botao4{
+    margin-left: 18%;
+}
+*/
+
